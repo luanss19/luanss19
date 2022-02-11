@@ -15,12 +15,11 @@ I hope you could learn a little bit of me :)
 My programming Skills are mostly focused on mobile development but with some web developtment knowledge too, ranging from Dart, Flutter and Android to CSS, HTML and PHP. I'm currently learning React Native aswell :)
 </p>
 
+ ---
+
 <div align="center">
-  
-  ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanss19&show_icons=true&theme=dark)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanss19&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
-
+    <img height="260em" src="https://github-readme-stats.vercel.app/api?username=luanss19&show_icons=true&theme=dark"/>
+    <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanss19&theme=dark"/>
 </div>
    
  ---
