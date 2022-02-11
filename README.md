@@ -6,13 +6,13 @@
 
 
 <p align="center"> 
-  As it is one of my biggest passions, it was not difficult to choose the programming area as the focus I wanted to give to my career, I have always had a problem-solving mindset and an understanding of how things work. Knowing how games were made and using what tools were the reasons I started researching the area from a young age.
+  As it is one of my biggest passions, it was not difficult to choose the programming area as the focus I wanted to give to my career, I have always had a problem-solving mindset and a will for understanding how things work. Knowing how games were made and what tools were used to make them were the reasons I started researching the area from a young age.
   <br>
 Even with the technical side of programming being my focus, I'm always developing my relationships and my network in the development area, because connecting and exchanging information with others is always beneficial in any area of activity.   
   <br>
 I hope you could learn a little bit of me :)
   <br>
-My programming Skills are mostly focused on mobile development, ranging from Dart and Flutter to Android. I'm currently learning React Native aswell :)
+My programming Skills are mostly focused on mobile development but with some web developtment knowledge too, ranging from Dart, Flutter and Android to CSS, HTML and PHP. I'm currently learning React Native aswell :)
 </p>
 
 <div align="center">
