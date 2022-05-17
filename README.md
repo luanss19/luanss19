@@ -12,7 +12,7 @@ Even with the technical side of programming being my focus, I'm always developin
   <br>
 I hope you could learn a little bit of me :)
   <br>
-My programming Skills are mostly focused on mobile development but with some web developtment knowledge too, ranging from Dart, Flutter and Android to CSS, HTML and PHP. I'm currently learning React Native aswell :)
+My programming Skills are mostly focused on mobile development but with some web developtment knowledge too, ranging from Dart, Flutter and Android to CSS, HTML and PHP.
 </p>
 
  ---
