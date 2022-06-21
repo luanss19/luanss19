@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Nice to have you here. I'm Luan Silva :)</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, Nice to have you here. I'm Luan Silva :)</h1>
 
 
 <h4 align="center">I hope you are doing fine, welcome to my profile.</h4>
