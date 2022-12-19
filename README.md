@@ -12,7 +12,7 @@ Even with the technical side of programming being my focus, I'm always developin
   <br>
 I hope you could learn a little bit of me :)
   <br>
-My programming Skills are mostly focused on mobile development but with some web developtment knowledge too, ranging from Dart, Flutter and Android to CSS, HTML and PHP.
+My programming Skills are mostly focused on front-end development but with some back-end/DevOps knowledge too, ranging from C#, F# and Dart to Angular, Flutter, CSS and HTML. I'm Currently working at LUZ Soluções Financeiras as a software developer, working mostly with Angular and C#, aswell as some AWS too.
 </p>
 
  ---
