@@ -18,8 +18,8 @@ My programming Skills are mostly focused on front-end development but with some 
  ---
 
 <div align="center">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=luanss19&show_icons=true&theme=dark"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanss19&theme=dark"/>
+    <img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanss19&show_icons=true&theme=dark"/>
+    <img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanss19&theme=dark"/>
 </div>
    
  ---
